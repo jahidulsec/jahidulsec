@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jahidul Islam</h1>
 <h3 align="center">A passionate frontend developer, Machine Learning Engineer from Bangladesh</h3>
-<img align="right" alt="coding image" src="[https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" />
+<img align="right" alt="coding image" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahidulsec&label=Profile%20views&color=0e75b6&style=flat" alt="jahidulsec" /> </p>
 

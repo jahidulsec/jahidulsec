@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jahidul.islam.sec@gmail.com**
 
-- ⚡ Fun fact **Knowledge is asset!**
+- ⚡ Fun fact **this is funny!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

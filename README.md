@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jahidul</h1>
 <h3 align="center">A passionate full-stack developer from Bangladesh</h3>
 
+<img align="right" alt="programming" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=740&t=st=1699074095~exp=1699074695~hmac=e81a4bb3f044a8505192daa687e11c86b8dc73221afbc3d271135cc7f10be178">
+
 - 🔭 I’m currently working on **Global Computer (BD) e-commerce website**
 
 - 🌱 I’m currently learning **CI/CD, Docker, Web Application Security**

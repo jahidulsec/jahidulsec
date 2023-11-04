@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jahidul</h1>
 <h3 align="center">A passionate full-stack developer from Bangladesh</h3>
 
-<img align="right" alt="programming" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=740&t=st=1699074095~exp=1699074695~hmac=e81a4bb3f044a8505192daa687e11c86b8dc73221afbc3d271135cc7f10be178">
+<img align="right" alt="programming" src="https://img.freepik.com/free-vector/desktop-smartphone-app-development_23-2148683810.jpg?w=740&t=st=1699074914~exp=1699075514~hmac=189f9b10dbaeb8ecd919c139c64267b18590d5d7336865fc847bce0c690449da">
 
 - 🔭 I’m currently working on **Global Computer (BD) e-commerce website**
 

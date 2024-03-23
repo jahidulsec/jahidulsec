@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Global Computer (BD) e-commerce website**
 
-- 🌱 I’m currently learning **CI/CD, Docker, Web Application Security**
+- 🌱 I’m currently learning **React Native, Flutter**
 
 - 👨‍💻 All of my projects are available at [https://jahidul-islam.vercel.app/](https://jahidul-islam.vercel.app/)
 
@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **jahidul.islam.sec@gmail.com**
 
-- ⚡ Fun fact **this is funny!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

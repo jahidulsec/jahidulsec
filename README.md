@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **React Native, Flutter**
 
-- 👨‍💻 All of my projects are available at [https://jahidul-islam.vercel.app/](https://jahidul-islam.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://jahidulislam.vercel.app/](https://jahidulislam.vercel.app/)
 
 - 💬 Ask me about **react, django**
 
-- 📫 How to reach me **jahidul.islam.sec@gmail.com**
+- 📫 How to reach me **jahidul.app@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>

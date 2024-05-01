@@ -3,7 +3,7 @@
 
 <img align="right" width="400" alt="programming" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
-- 🔭 I’m currently working on **Global Computer (BD) e-commerce website**
+- 🔭 I’m currently working at **Impala Intech Ltd.**
 
 - 🌱 I’m currently learning **React Native, Flutter**
 
